@@ -45,7 +45,7 @@ bool validPath(int n, vector<vector<int>>& edges, int source, int destination)
 int main()
 {
     freopen("1971.in", "r", stdin);
-	freopen("1971.out", "w", stdout);
+    freopen("1971.out", "w", stdout);
 
     int n, source, destination;
     vector<vector<int>> edges;
