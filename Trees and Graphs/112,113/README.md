@@ -29,6 +29,6 @@ A root-to-leaf path is a path starting from the root and ending at any leaf node
   ```
 ## Idea
 * Similar with 112, DFS from root (recursive)
-* need to using vector to record path
+* using vector to record path
   * push_back(cur_node)
   * if left subtree and right subtree is ending, pop_back()
