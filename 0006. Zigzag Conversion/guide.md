@@ -1,5 +1,5 @@
 # 6. Zigzag Conversion
-tags: [#medium]
+tags: [#medium][#string]
 
 ## Problem Description
 
